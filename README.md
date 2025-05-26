@@ -8,13 +8,13 @@ In the project directory, you can run:
 
 ### `npm start`
 ### Building a react + vite project
- ### ```
+  ```
 npm run build
-### ```
+  ```
 ### Starting a react project
-#### ```
+```
 npm run preview
-#### ```
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
